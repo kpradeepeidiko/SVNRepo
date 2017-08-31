@@ -1,0 +1,53 @@
+Memberships created response:
+{
+	"id": "Y2lzY29zcGFyazovL3VzL1dFQkhPT0svZDRiOWZhOTYtNmRlZi00YjRmLTg2OGItYWMyNTc4M2MwNDhj",
+	"name": "harish",
+	"targetUrl": "https://requestb.in/1laamgb1",
+	"resource": "memberships",
+	"event": "created",
+	"orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9jb25zdW1lcg",
+	"createdBy": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81NzQ3OTVhZC1kMzU2LTQ2NDctYTBmOS03YzliMWExZjZiMDA",
+	"appId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzMmM4MDc3NDBjNmU3ZGYxMWRhZjE2ZjIyOGRmNjI4YmJjYTQ5YmE1MmZlY2JiMmM3ZDUxNWNiNGEwY2M5MWFh",
+	"ownedBy": "creator",
+	"status": "active",
+	"created": "2017-07-06T10:39:06.176Z",
+	"actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xYjY4ZmI1NS1kMjAxLTQ4ZmEtOTU3ZC0yZTQ3ODIwNTFmYmI",
+	"data": {
+		"id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvNTc0Nzk1YWQtZDM1Ni00NjQ3LWEwZjktN2M5YjFhMWY2YjAwOjM5MmYzNGIwLTBiMDAtMTFlNy1hZjZlLWM3MTRiOGI1N2NmNg",
+		"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMzkyZjM0YjAtMGIwMC0xMWU3LWFmNmUtYzcxNGI4YjU3Y2Y2",
+		"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81NzQ3OTVhZC1kMzU2LTQ2NDctYTBmOS03YzliMWExZjZiMDA",
+		"personEmail": "JiraTestBot@sparkbot.io",
+		"personDisplayName": "JiraTestBot",
+		"personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9jb25zdW1lcg",
+		"isModerator": false,
+		"isMonitor": false,
+		"created": "2017-07-06T10:39:34.098Z"
+	}
+}
+=======================
+Memberships deleted response:
+{
+	"id": "Y2lzY29zcGFyazovL3VzL1dFQkhPT0svZDRiOWZhOTYtNmRlZi00YjRmLTg2OGItYWMyNTc4M2MwNDhj",
+	"name": "harish",
+	"targetUrl": "https://requestb.in/1laamgb1",
+	"resource": "memberships",
+	"event": "deleted",
+	"orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9jb25zdW1lcg",
+	"createdBy": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81NzQ3OTVhZC1kMzU2LTQ2NDctYTBmOS03YzliMWExZjZiMDA",
+	"appId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzMmM4MDc3NDBjNmU3ZGYxMWRhZjE2ZjIyOGRmNjI4YmJjYTQ5YmE1MmZlY2JiMmM3ZDUxNWNiNGEwY2M5MWFh",
+	"ownedBy": "creator",
+	"status": "active",
+	"created": "2017-07-06T10:39:06.176Z",
+	"actorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xYjY4ZmI1NS1kMjAxLTQ4ZmEtOTU3ZC0yZTQ3ODIwNTFmYmI",
+	"data": {
+		"id": "Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvNTc0Nzk1YWQtZDM1Ni00NjQ3LWEwZjktN2M5YjFhMWY2YjAwOjM5MmYzNGIwLTBiMDAtMTFlNy1hZjZlLWM3MTRiOGI1N2NmNg",
+		"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMzkyZjM0YjAtMGIwMC0xMWU3LWFmNmUtYzcxNGI4YjU3Y2Y2",
+		"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81NzQ3OTVhZC1kMzU2LTQ2NDctYTBmOS03YzliMWExZjZiMDA",
+		"personEmail": "JiraTestBot@sparkbot.io",
+		"personDisplayName": "JiraTestBot",
+		"personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9jb25zdW1lcg",
+		"isModerator": false,
+		"isMonitor": false,
+		"created": "2017-07-06T10:40:10.993Z"
+	}
+}
